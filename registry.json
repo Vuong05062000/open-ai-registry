@@ -1,0 +1,16 @@
+[
+  {
+    "plugin": "@genkit-ai/googleai",
+    "npm": "@genkit-ai/googleai",
+    "model": "gemini-1.5-flash",
+    "functionName": "summarizeText",
+    "active": true
+  },
+  {
+    "plugin": "genkitx-stability",
+    "npm": "genkitx-stability",
+    "model": "stable-diffusion-xl",
+    "functionName": "generateImage",
+    "active": true
+  }
+]
